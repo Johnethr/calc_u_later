@@ -13,7 +13,7 @@ def divide(x, y):
     else:
         return x / y
 
-print("Simple Calculator")
+# print("Simple Calculator") #This is a simple calculator
 print("1. Add")
 print("2. Subtract")
 print("3. Multiply")
